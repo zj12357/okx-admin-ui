@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'go-admin后台管理系统',
+  title: '英仕曼后台管理系统',
 
   /**
    * @type {boolean} true | false
